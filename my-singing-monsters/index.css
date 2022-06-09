@@ -1,0 +1,68 @@
+.logo-img {
+    width: 100px;
+}
+
+.img {
+    width: 100%;
+}
+
+.header {
+    background-image: url(6e8fda_d336961343f54cd285abfb3fcc701704_mv2.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-family: 'Yeseva One', sans-serif;
+}
+
+footer {
+    background-color: rgb(116, 102, 102);
+    color: white;
+}
+
+.img-row {
+    width: 100%;
+}
+
+.row {
+    align-items: center;
+    padding: 50px 0px;
+}
+
+.list-group-item {
+    color: white;
+    background-color: rgba(160, 82, 82, 0.8);
+}
+
+.four {
+    background-image: url(my\ singing\ monsters5.jfif);
+    background-size: cover;
+    background-position: 50% 50%;
+    padding: 6rem 0;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Cormorant', serif;
+    color: black;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: 'Prosto One', cursive;
+}
+
+p {
+    font-family: 'Didact Gothic', sans-serif;
+}
+li{
+    font-family: 'Didact Gothic', sans-serif; 
+}
+a{
+    font-family: 'Didact Gothic', sans-serif;
+}
+.nav-item .nav-link{
+    color: black !important;
+}
